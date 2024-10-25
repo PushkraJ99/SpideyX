@@ -136,7 +136,7 @@ spideyx crawler -h
                 [input]:
 
                   -site,  --site          : target url for spideyX to crawl
-                  -sties, --sites         : target urls for spideyX to crawl
+                  -sites, --sites         : target urls for spideyX to crawl
                   stdin/stdout            : target urls for spideyX using stdin
 
                 [configurations]:
